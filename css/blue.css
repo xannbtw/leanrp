@@ -1,0 +1,404 @@
+/* Blue Version CSS */
+
+a:link, a:visited, a:hover, a:focus{text-decoration: none; color: #c700ef;}
+
+
+/* Home Slider */
+#home-slider .caption h1 strong{
+	color:#c700ef;
+}
+
+.left-control:hover, 
+.right-control:hover {
+	background-color: #c700ef;
+}
+
+.learn-more {
+    border: 2px solid #c700ef;
+}
+.learn-more:hover {
+	background: #c700ef;
+}
+
+.left-control, .right-control {
+	border:1px solid #c700ef;  
+}
+/* End Home Slider */
+
+
+/* Navbar */
+
+/* Link Color */
+.navbar-inverse { border-color: #c700ef}
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus { color: #c700ef}
+.navbar-inverse .navbar-nav>.active>a,.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus { color: #c700ef}
+.navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus { color: #c700ef}
+.dropdown-menu>li>a { color: #c700ef}
+.navbar-inverse .navbar-nav>.dropdown>a:hover .caret { border-top-color: #c700ef}
+
+.navbar-toggle {
+	border: transparent;
+	background-color: #c700ef;
+}
+
+.navbar-inverse .navbar-toggle:hover,
+.navbar-inverse .navbar-toggle:focus {
+  	background-color: #c700ef;
+}
+
+/* End Navbar */
+
+/* Loader */
+.spinner > div
+{
+	background: #c700ef;   
+}
+/*  End Loader*/
+
+/* Titles & Color */
+
+
+.btn {
+    background-image: none;
+	background-color: #c700ef;
+	color: #fff;
+}
+
+a.btn {
+	color: #fff;
+}
+
+.btn a {
+	color: #fff;
+}
+
+.btn-inverse:hover{
+	color: #fff;
+	background-color: #c700ef;
+}
+
+.btn-inverse:hover a{
+	color: #fff;
+}
+
+a.btn-inverse:hover {
+	color: #fff;
+}
+
+
+.btn:hover {
+	background-color: transparent;
+}
+
+.btn:hover a{
+	color: #c700ef;
+}
+
+.btn-inverse {
+	color: #c700ef;
+    border: 1px solid #c700ef;
+}
+
+a.btn-inverse{
+	color: #c700ef;
+}
+
+.btn-inverse a{
+	color: #c700ef;
+}
+
+
+a.btn:hover {
+	color: #c700ef;
+}
+
+.btn a:hover {
+	color: #c700ef;
+}
+
+.btn-one{
+    background: none repeat scroll 0 0 #c700ef;
+    border: 1px solid #c700ef;
+	color: #fff !important;
+}
+
+.btn-one:hover {
+    border: 1px solid #c700ef;
+	color: #c700ef;
+	background: transparent;
+}
+
+
+.btn:hover {
+	border: 1px solid #c700ef;
+	color: #c700ef;
+}
+
+.hovicon.effect-1 {
+	background: #c700ef;
+}
+
+.hovicon.effect-1:after {
+	box-shadow: 0 0 0 4px #c700ef;
+}
+
+.text-color {
+    background: none repeat scroll 0 0 #c700ef;
+}
+
+.dporcaps-negative {
+    background: none repeat scroll 0 0 #c700ef;
+}
+
+.dporcaps {
+    color: #c700ef;
+}
+
+.blockqoute-style-2 {
+    border-left: 5px solid #c700ef;
+}
+
+cite {
+    color: #c700ef;
+}
+
+
+/* Effect 1a */
+.hovicon.effect-1.sub-a:hover {
+	background: #c700ef;
+}
+
+.main-color
+{
+	color: #c700ef;
+}
+
+.white-color
+{
+	color: #fff;
+}
+
+/* End Titles & Color */
+
+
+/* Facts */
+.number p:first-letter {
+  color: #c700ef;
+}
+/* End Facts */
+
+/* Team Member */
+.team-member-holder:hover {
+	border-color: #c700ef; 
+}
+
+.img-overlay {
+	background: #c700ef;
+}
+
+.view-profile {
+	color:#c700ef;
+}
+
+.team-member-social-list-item {
+	color: #c700ef;
+}
+
+.team-details h3{
+	color: #00cdef;
+}
+/* End Team Member */
+
+/* Skills */
+.skills h4:first-letter {
+  color: #c700ef;
+}
+/* End Skills */
+
+/* Works */
+#filters li span.active,#filters li span:hover {
+	background: #c700ef;
+}
+
+#filters li span {
+	border: 1px solid #c700ef;
+	color: #c700ef;
+}
+
+.project-details h3 {
+	color: #c700ef; 
+}
+
+.project-description h3 {
+	color: #c700ef; 
+}
+
+/* End Works */
+
+/* Partners */
+.partners-img:hover img{
+	border-color: #c700ef;
+}
+/* End Partners */
+
+/* Pricing */
+.single-table h4:first-letter {
+  color: #c700ef;
+}
+
+.price-icon {
+    background-color: #c700ef;
+}
+
+span.price {
+    color: #c700ef;
+}
+
+.single-table .btn-price, .sign_form input[type="submit"] {
+    background: none repeat scroll 0 0 #c700ef;
+    border: 1px solid #c700ef;
+}
+
+.single-table .btn-price:hover {
+    border: 1px solid #c700ef;
+	color: #c700ef;
+}
+
+.single-table.featured .price-icon, .single-table.featured .btn-price {
+    color: #c700ef;
+}
+
+.single-table.featured{
+    background-color: #c700ef;
+}
+
+.single-table.featured .price {
+    background-color: #c700ef;
+}
+/* End Pricing */
+
+/* Clients */
+.clients h5 {
+	color: #c700ef;
+}
+
+.carousel-indicators .active {
+  background-color: #c700ef;
+  border-color: #c700ef;
+}
+
+.carousel-indicators li {
+  border-color: #c700ef;
+}
+/* End Clients */
+
+/* News */
+.post-date {
+    background-color: #c700ef;
+}
+
+.entry-title a:hover {
+    color: #c700ef;
+}
+/* End News */
+
+/* Blog */
+.widget.tags-cloud a {
+    border: 1px solid #c700ef;
+}
+
+.widget.tags-cloud a:hover {
+    border: 1px solid #c700ef;
+    background-color: #c700ef;
+}
+
+.tags a {
+    border: 1px solid #c700ef;
+}
+
+.tags a:hover {
+    border: 1px solid #c700ef;
+    background-color: #c700ef;
+}
+
+
+.pager li > a, .pager li > span {
+    border: 1px solid #c700ef;
+}
+.pager li > a:hover, .pager li > a:focus {
+    border: 1px solid #c700ef;
+	background-color: #c700ef;
+}
+/* End Blog */
+
+
+/* Tweet */
+#twitter-carousel .item a {
+    color: #c700ef;
+}
+
+.twitter-icon .fa-twitter:after {
+    border-color: #c700ef transparent transparent;
+}
+
+.twitter-icon .fa-twitter, .twitter-left-control:hover, .twitter-right-control:hover {
+    background-color: #c700ef;
+}
+/* End Tweet */
+
+/* Footer */
+.bottom-footer {
+	border-top: 7px solid #c700ef;
+}
+
+.bottom-footer-left p a {
+    color: #c700ef;
+}
+
+.bottom-social-icons li a i{
+	background-color: #c700ef;
+	border: 1px solid #c700ef;
+}
+
+.bottom-social-icons li a i:hover{
+	color: #c700ef;
+}
+
+/* End Footer */
+
+/* Contacts */
+.contact_form i{
+    color: #c700ef;
+}
+
+.contact_form input[type="submit"] {
+	background: #c700ef;
+    border: 1px solid #c700ef;
+}
+
+.contact_form input[type="submit"]:hover {
+    color: #c700ef;
+}
+
+.sign_form input[type="submit"]:hover {
+	color: #c700ef;
+}
+/* End Contacts */
+
+/* To Top */
+a.scroll-up {
+    background: none repeat scroll 0 0 #c700ef;
+}
+a.scroll-up i {
+    color: #fff;
+}
+
+a.scroll-up:hover i {
+    color: #c700ef;
+}
+
+a.scroll-up:hover {
+	color: #c700ef;
+	border-color: #c700ef;
+}
+/* End To Top */
