@@ -3,6 +3,17 @@
 a:link, a:visited, a:hover, a:focus{text-decoration: none; color: #c700ef;}
 
 
+/* Scroll */
+
+::-webkit-scrollbar {
+    width: 9px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #c700ef;
+  }
+
+
 /* Home Slider */
 #home-slider .caption h1 strong{
 	color:#c700ef;
